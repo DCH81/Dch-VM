@@ -4,7 +4,7 @@ Dch-VM is a Python Virtual Machine fast & secure, in this script Dch-VM is used 
 
 # This Program
 
-```py
+```python
 program =[
     #OP.DATA,9,100,102, 108, 97, 103, 61, 110, 105, 103, 97, # 11 bytecodes
         
